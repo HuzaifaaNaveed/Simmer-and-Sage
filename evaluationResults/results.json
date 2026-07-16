@@ -1,0 +1,52 @@
+{
+  "Beef Biryani": {
+    "matched_keywords": 9,
+    "total_keywords": 10,
+    "accuracy_percent": 90.0
+  },
+  "Tandoori Chicken": {
+    "matched_keywords": 9,
+    "total_keywords": 10,
+    "accuracy_percent": 90.0
+  },
+  "Pepperoni Pizza": {
+    "matched_keywords": 10,
+    "total_keywords": 10,
+    "accuracy_percent": 100.0
+  },
+  "Gulab Jamun": {
+    "matched_keywords": 9,
+    "total_keywords": 10,
+    "accuracy_percent": 90.0
+  },
+  "Beef Burger": {
+    "matched_keywords": 8,
+    "total_keywords": 10,
+    "accuracy_percent": 80.0
+  },
+  "Palak Paneer": {
+    "matched_keywords": 10,
+    "total_keywords": 10,
+    "accuracy_percent": 100.0
+  },
+  "Mango Lassi": {
+    "matched_keywords": 9,
+    "total_keywords": 10,
+    "accuracy_percent": 90.0
+  },
+  "Mutton Karahi": {
+    "matched_keywords": 10,
+    "total_keywords": 10,
+    "accuracy_percent": 100.0
+  },
+  "Shami Kabab": {
+    "matched_keywords": 9,
+    "total_keywords": 10,
+    "accuracy_percent": 90.0
+  },
+  "Tacos": {
+    "matched_keywords": 9,
+    "total_keywords": 10,
+    "accuracy_percent": 90.0
+  }
+}

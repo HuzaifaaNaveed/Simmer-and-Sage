@@ -1,0 +1,62 @@
+{
+  "Beef Biryani": {
+    "ingredient_score": 8.5,
+    "recipe_completeness_score": 9,
+    "consistency_score": 9,
+    "reason": "Ingredients are mostly correct and steps follow a clear biryani flow with consistent formatting."
+  },
+  "Tandoori Chicken": {
+    "ingredient_score": 9,
+    "recipe_completeness_score": 8.5,
+    "consistency_score": 9,
+    "reason": "Ingredients are culturally accurate and recipe flow is coherent with consistent structure."
+  },
+  "Pepperoni Pizza": {
+    "ingredient_score": 9.5,
+    "recipe_completeness_score": 8.5,
+    "consistency_score": 9,
+    "reason": "Ingredients are simple and accurate, and directions follow a complete pizza-making sequence."
+  },
+  "Gulab Jamun": {
+    "ingredient_score": 8,
+    "recipe_completeness_score": 8,
+    "consistency_score": 8.5,
+    "reason": "Ingredients fit the dessert well and steps are complete though slightly condensed."
+  },
+  "Beef Burger": {
+    "ingredient_score": 8.5,
+    "recipe_completeness_score": 8,
+    "consistency_score": 9,
+    "reason": "Ingredients are logical and recipe steps are straightforward with consistent formatting."
+  },
+  "Palak Paneer": {
+    "ingredient_score": 9,
+    "recipe_completeness_score": 9,
+    "consistency_score": 9,
+    "reason": "Ingredients match authentic palak paneer and steps follow a proper cooking sequence."
+  },
+  "Mango Lassi": {
+    "ingredient_score": 10,
+    "recipe_completeness_score": 9.5,
+    "consistency_score": 10,
+    "reason": "Ingredients are perfect for lassi and recipe is complete, simple, and very consistent."
+  },
+  "Mutton Karahi": {
+    "ingredient_score": 9,
+    "recipe_completeness_score": 8.5,
+    "consistency_score": 9,
+    "reason": "Ingredients align well with traditional karahi and instructions follow a logical flow."
+  },
+  "Shami Kabab": {
+    "ingredient_score": 8.5,
+    "recipe_completeness_score": 8,
+    "consistency_score": 8.5,
+    "reason": "Ingredients are mostly accurate and recipe flow is correct though slightly minimal."
+  },
+  "Tacos": {
+    "ingredient_score": 9,
+    "recipe_completeness_score": 8.5,
+    "consistency_score": 9,
+    "reason": "Ingredients are appropriate and recipe maintains good clarity and formatting consistency."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "Beef Biryani": [
+    "beef",
+    "biryani",
+    "rice",
+    "yogurt",
+    "onions",
+    "garlic",
+    "cardamom",
+    "cloves",
+    "peppercorns",
+    "turmeric"
+  ],
+  "Tandoori Chicken": [
+    "chicken",
+    "tandoori",
+    "yogurt",
+    "lemon",
+    "garlic",
+    "coriander",
+    "cumin",
+    "cardamom",
+    "chilies",
+    "salt"
+  ],
+  "Pepperoni Pizza": [
+    "pizza",
+    "pepperoni",
+    "cheese",
+    "crust",
+    "sauce",
+    "italian",
+    "oregano",
+    "mozzarella",
+    "bake",
+    "seasoning"
+  ],
+  "Gulab Jamun": [
+    "water",
+    "sugar",
+    "syrup",
+    "cardamom",
+    "saffron",
+    "rose",
+    "milk",
+    "boil",
+    "ghee",
+    "sweet"
+  ],
+  "Beef Burger": [
+    "beef",
+    "burger",
+    "garlic",
+    "onion",
+    "cilantro",
+    "salt",
+    "pepper",
+    "patty",
+    "grill",
+    "bread"
+  ],
+  "Palak Paneer": [
+    "spinach",
+    "paneer",
+    "mustard",
+    "cloves",
+    "cardamom",
+    "chilies",
+    "garlic",
+    "ghee",
+    "oil",
+    "curry"
+  ],
+  "Mango Lassi": [
+    "mango",
+    "pulp",
+    "yogurt",
+    "cubes",
+    "honey",
+    "ice",
+    "sugar",
+    "blend",
+    "smooth",
+    "drink"
+  ],
+  "Mutton Karahi": [
+    "mutton",
+    "onions",
+    "water",
+    "ginger",
+    "garlic",
+    "chili",
+    "salt",
+    "oil",
+    "boil",
+    "serve"
+  ],
+  "Shami Kabab": [
+    "kabab",
+    "yogurt",
+    "salt",
+    "cumin",
+    "cloves",
+    "chilies",
+    "cardamom",
+    "onion",
+    "tomatoes",
+    "bake"
+  ],
+  "Tacos": [
+    "tacos",
+    "tortillas",
+    "cheddar",
+    "cilantro",
+    "onion",
+    "garlic",
+    "chicken",
+    "salt",
+    "pepper",
+    "filling"
+  ]
+}
